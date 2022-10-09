@@ -27,7 +27,9 @@ Research to explore the ability to utilize a commodity computer cluster to effic
 # Publications
 
 <b>Budvin Edippuliarachchi</b>, Damika Gamlath, Ruchin Amaratunga, Gunavaran Brihadiswaran, and Sanath Jayasena. 2022. Quill: A Memory Efficient k-mer Counting and k-mer Querying Tool for Commodity Clusters. In Proceedings of the <i>14th International Conference on Bioinformatics and Biomedical Technology (ICBBT '22)</i>.
-<a href="https://dl.acm.org/doi/10.1145/3543377.3543389"><i class="fa fa-link"></i></a>
+&nbsp;
+<a href="https://dl.acm.org/doi/10.1145/3543377.3543389"><i class="ai ai-acm"></i></a>
+&nbsp;
 <a href="pdf/quill.pdf"><i class="fa fa-file-text"></i></a>
 
 
@@ -61,5 +63,3 @@ Research to explore the ability to utilize a commodity computer cluster to effic
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
