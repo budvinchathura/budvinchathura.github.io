@@ -11,6 +11,8 @@ interested in research related to programming languages.
 BSc in Computer Science Engineering (2022)
 <br>University of Moratuwa
 
+---
+
 # Research Projects
 
 ## Software Profiling of ALICE O2
@@ -20,9 +22,11 @@ Profiling the new software suite ALICE O2 developed by CERN for their run 3. Res
 
 Research to explore the ability to utilize a commodity computer cluster to efficiently perform K-mer counting. Research is mainly based on searching for optimization strategies with MPI framework to obtain performance gains which can be scaled for a distributed environment.
 
+---
+
 # Publications
 
-- <b>Budvin Edippuliarachchi</b>, Damika Gamlath, Ruchin Amaratunga, Gunavaran Brihadiswaran, and Sanath Jayasena. 2022. Quill: A Memory Efficient k-mer Counting and k-mer Querying Tool for Commodity Clusters. In Proceedings of the <i>14th International Conference on Bioinformatics and Biomedical Technology (ICBBT '22)</i>.
+<b>Budvin Edippuliarachchi</b>, Damika Gamlath, Ruchin Amaratunga, Gunavaran Brihadiswaran, and Sanath Jayasena. 2022. Quill: A Memory Efficient k-mer Counting and k-mer Querying Tool for Commodity Clusters. In Proceedings of the <i>14th International Conference on Bioinformatics and Biomedical Technology (ICBBT '22)</i>.
 <a href="https://dl.acm.org/doi/10.1145/3543377.3543389"><i class="fa fa-link"></i></a>
 <a href="pdf/quill.pdf"><i class="fa fa-file-text"></i></a>
 
