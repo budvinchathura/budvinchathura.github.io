@@ -6,11 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="https://kit.fontawesome.com/2440c9d2f4.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    
 
 
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="custom/styles.css">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -42,6 +44,7 @@
 
       </section>
       <footer>
+        <small id="updated-date">Last updated: 11th Oct. 2022</small><br>
         <small>This page is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small>
         <br>
         <small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small>
@@ -62,4 +65,25 @@
     </script>
     {% endif %}
   </body>
+  <!-- <script>
+    const desiredRepo = "budvinchathura.github.io";
+    const dateTagId = "#updated-date"; // The HTML element you want to update
+
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function()
+    {
+      if (this.readyState == 4 && this.status == 200)
+      {
+        let response = JSON.parse(this.responseText);
+        var lastUpdated = new Date(response.updated_at);
+        var day = lastUpdated.getUTCDate();
+        var month = lastUpdated.getUTCMonth();
+        var year = lastUpdated.getUTCFullYear();
+        document.getElementById(dateTagId).text(`Last updated: ${year}-${month}-${day}`);
+        console.log(year)
+      }
+    };
+    xhttp.open("GET", "https://api.github.com/repos/budvinchathura/budvinchathura.github.io", true);
+    xhttp.send();
+  </script> -->
 </html>
