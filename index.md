@@ -126,7 +126,7 @@ Organized by the IEEE Student Branch of General Sir John Kotelawala Defece Unive
 <br>
 <a href="https://events.vtools.ieee.org/m/284283"><i class="fa fa-link"></i></a>
 
-### Category Name 1 
+<!-- ### Category Name 1 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -152,6 +152,5 @@ Organized by the IEEE Student Branch of General Sir John Kotelawala Defece Unive
 ---
 
 
-
-
 ---
+ -->
