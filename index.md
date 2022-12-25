@@ -45,10 +45,7 @@ Research to explore the ability to utilize a commodity computer cluster to effic
 
 Gold Medal - Dept. of Computer Science and Engineering, Univ. of Moratuwa (2022)
 <br>
-<small>Awarded for achieving the best overall GPA for computer science specialization.
-<br>
-<i>To be confirmed</i>
-</small>
+<small>Awarded for achieving the best overall GPA for computer science specialization.</small>
 
 Dean's List - University of Moratuwa (2017-2021)
 <br>
