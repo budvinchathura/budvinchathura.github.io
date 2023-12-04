@@ -1,9 +1,8 @@
 # About
 
-I am Budvin Edippuliarachchi, a graduate from The Department of Computer Science and Engineering, University of Moratuwa.
+I am a graduate research assistant at <a href="https://www.cs.utah.edu/" target="_blank" rel="noopener noreferrer">Kahlert School of Computing</a>, The University of Utah. I am supervised by <a href="https://users.cs.utah.edu/~hari/" target="_blank" rel="noopener noreferrer"> Prof. Hari Sundar</a>. Before that I got my bachelor's degree from <a href="https://cse.mrt.ac.lk/" target="_blank" rel="noopener noreferrer"> Department of Computer Science & Engineering </a>,  University of Moratuwa, Sri Lanka.
 
-My research areas are in the fields of distributed computing and parallel computing, specifically the research related to performance engineering in distributed systems with high performance message passing interfaces. I am also
-interested in research related to programming languages.
+My primary research is in the intersection of scientific computations on distributed systems and graph decomposition. I am interested in utilizing graph algorithms to optimize computation and communication costs in scientific computations. I am also interested in building compilers for Domain Specific Languages for Partial Differential Equation solvers. 
 
 ---
 
@@ -21,13 +20,13 @@ The Cornell, Maryland, Max Planck Pre-doctoral Research School (August 2022)
 # Research
 
 ## Software Profiling of ALICE O2
-Profiling the new software suite ALICE O2 developed by CERN for their run 3. Research involves executing sample workflows, profiling them with memory and CPU profiling tools to identifty potential bottlenecks.
+Profiling the new software suite ALICE O2 developed by CERN for their run 3. Research involves executing sample workflows, profiling them with memory and CPU profiling tools to identify potential bottlenecks.
 
 ## Accelerating k-mer Counting in a Commodity Cluster Environment
 
 Research to explore the ability to utilize a commodity computer cluster to efficiently perform K-mer counting. Research is mainly based on searching for optimization strategies with MPI framework to obtain performance gains which can be scaled for a distributed environment.
 <br>
-<a href="https://github.com/CSE-Optimizers/k-mer_counter"><i class="fa-brands fa-github"></i></a>
+<a href="https://github.com/CSE-Optimizers/k-mer_counter" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i></a>
 
 ---
 
@@ -35,9 +34,9 @@ Research to explore the ability to utilize a commodity computer cluster to effic
 
 <b>Budvin Edippuliarachchi</b>, Damika Gamlath, Ruchin Amaratunga, Gunavaran Brihadiswaran, and Sanath Jayasena. 2022. Quill: A Memory Efficient k-mer Counting and k-mer Querying Tool for Commodity Clusters. In Proceedings of the <i>14th International Conference on Bioinformatics and Biomedical Technology (ICBBT '22)</i>.
 &nbsp;
-<a href="https://dl.acm.org/doi/10.1145/3543377.3543389"><i class="ai ai-acm"></i></a>
+<a href="https://dl.acm.org/doi/10.1145/3543377.3543389" target="_blank" rel="noopener noreferrer"><i class="ai ai-acm"></i></a>
 &nbsp;
-<a href="pdf/quill.pdf"><i class="fa fa-file-text"></i></a>
+<a href="pdf/quill.pdf" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-text"></i></a>
 
 ---
 
@@ -76,6 +75,20 @@ Olympiad competition.</small>
 ---
 
 # Work Experience
+Software Engineer - Expert Intelligence (2023)
+<br>
+<small>
+Cloud infrastructure automation and full stack development.
+</small>
+
+
+
+Backend Engineer, DevOps Consultant - IXD Labs (2021-2023)
+<br>
+<small>
+Backend development and cloud infrastructure management for web based products and services.
+</small>
+
 Software Engineering Intern - Mitra Innovation (2020, 2021)
 <br>
 <small>
@@ -103,7 +116,7 @@ Step Up - Introduction to Algorithms (2022)
 Step up is a technical workshop Organized by the IEEE Student Branch University of Jaffna. This workshop mainly focuses on Competitive Programming and making students aware of Data Structures and Algorithms.
 </small>
 <br>
-<a href="https://events.vtools.ieee.org/m/323138"><i class="fa fa-link"></i></a>
+<a href="https://events.vtools.ieee.org/m/323138" target="_blank" rel="noopener noreferrer"><i class="fa fa-link"></i></a>
 
 Prolog To XTREME 15.0 (2021)
 <br>
@@ -111,17 +124,17 @@ Prolog To XTREME 15.0 (2021)
 A virtual webinar hosted by The IEEE Student Branch of the University of Jaffna, focusing on Algorithms & Data Structures for the IEEEXtreme 15.0 coding competition with the purpose of guiding their students and to get an idea about the tricks and tips, to solve the problems.
 </small>
 <br>
-<a href="https://events.vtools.ieee.org/m/286431"><i class="fa fa-link"></i></a>
+<a href="https://events.vtools.ieee.org/m/286431" target="_blank" rel="noopener noreferrer"><i class="fa fa-link"></i></a>
 &nbsp;
-<a href="https://www.youtube.com/watch?v=qF92u9GoXXQ"><i class="fa fa-video"></i></a>
+<a href="https://www.youtube.com/watch?v=qF92u9GoXXQ" target="_blank" rel="noopener noreferrer"><i class="fa fa-video"></i></a>
 
 CodeSolveur (2021)
 <br>
 <small>
-Organized by the IEEE Student Branch of General Sir John Kotelawala Defece University in collaboration with the IEEEXtreme Sri Lanka Section to enhance the knowledge of KDU undergraduates on competitive programming. During this session mainly the techniques of competitive programming such as divide and conquer, dynamic programmig and greedy approach were discussed.
+Organized by the IEEE Student Branch of General Sir John Kotelawala Defece University in collaboration with the IEEEXtreme Sri Lanka Section to enhance the knowledge of KDU undergraduates on competitive programming. During this session mainly the techniques of competitive programming such as divide and conquer, dynamic programming and greedy approach were discussed.
 </small>
 <br>
-<a href="https://events.vtools.ieee.org/m/284283"><i class="fa fa-link"></i></a>
+<a href="https://events.vtools.ieee.org/m/284283" target="_blank" rel="noopener noreferrer"><i class="fa fa-link"></i></a>
 
 <!-- ### Category Name 1 
 
