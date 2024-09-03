@@ -1,6 +1,6 @@
 # About
 
-I am a graduate research assistant at <a href="https://www.cs.utah.edu/" target="_blank" rel="noopener noreferrer">Kahlert School of Computing</a>, The University of Utah. I am supervised by <a href="https://users.cs.utah.edu/~hari/" target="_blank" rel="noopener noreferrer"> Prof. Hari Sundar</a>. Before that I got my bachelor's degree from <a href="https://cse.mrt.ac.lk/" target="_blank" rel="noopener noreferrer"> Department of Computer Science & Engineering </a>,  University of Moratuwa, Sri Lanka.
+I am a graduate research assistant at <a href="https://engineering.tufts.edu/cs/" target="_blank" rel="noopener noreferrer">Department of Computer Science </a>, Tufts University. I am supervised by <a href="https://facultyprofiles.tufts.edu/hari-sundar" target="_blank" rel="noopener noreferrer"> Prof. Hari Sundar</a>. Before that I got my bachelor's degree from <a href="https://cse.mrt.ac.lk/" target="_blank" rel="noopener noreferrer"> Department of Computer Science & Engineering </a>,  University of Moratuwa, Sri Lanka.
 
 My primary research is in the intersection of scientific computations on distributed systems and graph decomposition. I am interested in utilizing graph algorithms to optimize computation and communication costs in scientific computations. I am also interested in building compilers for Domain Specific Languages for Partial Differential Equation solvers. 
 
