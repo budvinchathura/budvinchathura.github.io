@@ -1,8 +1,8 @@
 # About
 
-I am a graduate research assistant at <a href="https://engineering.tufts.edu/cs/" target="_blank" rel="noopener noreferrer">Department of Computer Science </a>, Tufts University. I am supervised by <a href="https://facultyprofiles.tufts.edu/hari-sundar" target="_blank" rel="noopener noreferrer"> Prof. Hari Sundar</a>. Before that I got my bachelor's degree from <a href="https://cse.mrt.ac.lk/" target="_blank" rel="noopener noreferrer"> Department of Computer Science & Engineering </a>,  University of Moratuwa, Sri Lanka.
+I am a PhD student and a graduate research assistant at the <a href="https://engineering.tufts.edu/cs/" target="_blank" rel="noopener noreferrer">Department of Computer Science </a>, Tufts University. I am supervised by <a href="https://facultyprofiles.tufts.edu/hari-sundar" target="_blank" rel="noopener noreferrer"> Prof. Hari Sundar</a>. Before that I got my bachelor's degree from <a href="https://cse.mrt.ac.lk/" target="_blank" rel="noopener noreferrer"> Department of Computer Science & Engineering </a>,  University of Moratuwa, Sri Lanka.
 
-My primary research is in the intersection of scientific computations on distributed systems and graph decomposition. I am interested in utilizing graph algorithms to optimize computation and communication costs in scientific computations. I am also interested in building compilers for Domain Specific Languages for Partial Differential Equation solvers. 
+My primary research is in the intersection of scientific computations on distributed systems and graph decomposition. I am interested in utilizing graph algorithms to optimize computation and communication costs in scientific computations. I am also interested in building compilers and type systems for Domain Specific Languages for Partial Differential Equation solvers. 
 
 ---
 
@@ -19,6 +19,15 @@ The Cornell, Maryland, Max Planck Pre-doctoral Research School (August 2022)
 
 # Research
 
+## AMRaCut: Scalable Partitioning for Adaptive Mesh Refinement
+AMRaCut bridges the scalable performance gap between Space Filling Curve based partitioners
+and Graph based multi-level partitioners for mesh partitioning in distributed environments.
+AMRaCut achieves 5-10x speedup over multi-level partitioners (ParMETIS, PT-Scotch) while
+maintaining maximum partition load within 1.5-2x of optimal, sufficient for
+distributed scalability of downstream tasks.
+<br>
+<a href="https://github.com/paralab/AMRaCut" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i></a>
+
 ## Software Profiling of ALICE O2
 Profiling the new software suite ALICE O2 developed by CERN for their run 3. Research involves executing sample workflows, profiling them with memory and CPU profiling tools to identify potential bottlenecks.
 
@@ -31,6 +40,11 @@ Research to explore the ability to utilize a commodity computer cluster to effic
 ---
 
 # Publications
+
+<b>Budvin Edippuliarachchi</b>, David Van Komen, and Hari Sundar. 2025. AMRaCut: Scalable Partitioning for Adaptive Mesh Refinement. 
+In <i>The International Conference for High Performance Computing, Networking, Storage and Analysis (SC '25)</i>.
+&nbsp;
+<a href="https://doi.org/10.1145/3712285.3759863" target="_blank" rel="noopener noreferrer"><i class="ai ai-acm"></i></a>
 
 <b>Budvin Edippuliarachchi</b>, Damika Gamlath, Ruchin Amaratunga, Gunavaran Brihadiswaran, and Sanath Jayasena. 2022. Quill: A Memory Efficient k-mer Counting and k-mer Querying Tool for Commodity Clusters. In Proceedings of the <i>14th International Conference on Bioinformatics and Biomedical Technology (ICBBT '22)</i>.
 &nbsp;
@@ -98,7 +112,14 @@ Software Engineering Intern - Mitra Innovation (2020, 2021)
 ---
 
 # Teaching Experience
-Teaching Assistant - Dept. of Computer Science and Engineering, Univ. of Moratuwa (2021, 2022)
+Graduate Teaching Assistant - Tufts University (2025)
+<br>
+<small>
+CS40 - Machine Structure & Assembly Language Programming 
+</small>
+
+
+Teaching Assistant - University of Moratuwa (2021, 2022)
 <br>
 <small>
 CS3062 - Theory of Computing<br>
