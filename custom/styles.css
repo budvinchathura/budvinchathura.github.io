@@ -10,3 +10,54 @@ screen and (min-width: 960px) {
         word-wrap: normal;
     }
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
+.section-nav {
+    display: none;
+}
+
+@media print,
+screen and (min-width: 960px) {
+
+    .section-nav {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        margin-top: 18px;
+        padding-top: 12px;
+        font-size: 14px;
+    }
+
+    .section-nav-title {
+        font-size: 12px;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        color: #999;
+    }
+
+    .section-nav a {
+        color: #727272;
+        font-weight: normal;
+    }
+
+    .section-nav a::before {
+        content: "\2022";
+        margin-right: 8px;
+        color: #bbb;
+    }
+
+    .section-nav a:hover::before {
+        color: #267CB9;
+    }
+
+    .section-nav a:hover {
+        color: #267CB9;
+    }
+}
+
+section h1[id] {
+    scroll-margin-top: 20px;
+}
