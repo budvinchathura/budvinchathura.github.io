@@ -9,4 +9,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 - jekyll-feed
-google_analytics: "y" # your Google Analytics tracking ID here
+google_analytics: "G-6T8QFX3TRN" # Google Analytics 4 measurement ID (only loaded in production)
